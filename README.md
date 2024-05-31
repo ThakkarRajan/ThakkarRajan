@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development 
 - 🌱 I’m currently learning SwiftUI for iOS Development 
 - 💞️ I’m looking to collaborate on internship or entry-level job opportunities 
-- 📫 Reach me at thakkrrajan10@gmail.com or 
+- 📫 Reach me at thakkrrajanca@gmail.com 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: "An Excellent Model Starts From Raw Data." IYKYK
 
