@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on internship or entry-level job opportunities 
 - 📫 Reach me at thakkrrajanca@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: "An Excellent Model Starts From Raw Data." IYKYK
+- ⚡ Fun fact: "An Excellent Model Starts From Raw Data." 
 - 🥷 Having knowledge of numerous programming languages and the ability to quickly learn new skills due to my solid fundamentals.
 <!---
 ThakkarRajan/ThakkarRajan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
