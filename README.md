@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ThakkarRajan
+- 👋 Hi, I’m Rajan Thakkar
 - 👀 I’m interested in Software Development 
 - 🌱 I’m currently learning SwiftUI for iOS Development 
 - 💞️ I’m looking to collaborate on internship or entry-level job opportunities 
