@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Rajan Thakkar
 - 👀 I’m interested in Software Development/ Application Development 
-- 🌱 I’m currently learning SwiftUI for iOS Development 
 - 💞️ I’m looking to collaborate on internship or entry-level job opportunities 
 - 📫 Reach me at thakkarrajanca@gmail.com  or [rajanthakkar.me](https://www.rajanthakkar.me/)
 - 😄 Pronouns: He/Him
