@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rajan Thakkar
-- 👀 I’m interested in Software Development/ Application Development 
-- 💞️ I’m looking to collaborate on internship or entry-level job opportunities 
+- 👀 I’m interested in Software Development / Application Development 
+- 💞️ I’m looking for entry-level job opportunities 
 - 📫 Reach me at thakkarrajanca@gmail.com  or [rajanthakkar.me](https://www.rajanthakkar.me/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Rajan is also city name I discovered when I created the weather app.
