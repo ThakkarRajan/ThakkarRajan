@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rajan Thakkar
-- 👀 I’m interested in Software Development / Application Development 
+- 👀 I’m interested in Software / Web / Application Development 
 - 💞️ I’m looking for entry-level job opportunities 
 - 📫 Reach me at thakkarrajanca@gmail.com  or [rajanthakkar.me](https://www.rajanthakkar.me/)
 - 😄 Pronouns: He/Him
