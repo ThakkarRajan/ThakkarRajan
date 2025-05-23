@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajan</h1>
 <h3 align="center">I'm a passionate developer, currently weaving magic with code. I’m obsessed with creating efficient and clean solutions that make people’s lives better (or at least less buggy). A front-end enthusiast with a touch of back-end wizardry, I specialize in turning caffeine into code and debugging my way through life.</h3>
 
-- 🔭 I’m currently working on [Building an AI-powered resume website that might just be your next career helper. [Check it out!]](https://airesumepro.vercel.app/)
+- 🔭 I Build [an AI-powered resume website that might just be your next career helper. [Check it out!]](https://airesumepro.vercel.app/)
 
 - 🌱 I’m currently learning **How to make my code even cleaner than my room. 😅**
 
