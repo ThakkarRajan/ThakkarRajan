@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **How to make my code even cleaner than my room. 😅**
 
-- 👨‍💻 All of my projects are available at my personal [website]([https://www.rajanthakkar.me/](https://portfolio-rajan-phi.vercel.app/))
+- 👨‍💻 Explore all of my projects on my personal portfolio website:  🌐 [https://portfolio-rajan-phi.vercel.app](https://portfolio-rajan-phi.vercel.app)
 
 - 💬 Ask me about **React, Vue, Tailwind CSS, or the best way to make a perfect cup of coffee while coding.**
 
