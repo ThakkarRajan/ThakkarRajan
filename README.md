@@ -22,4 +22,4 @@ React · Node.js · TypeScript · Swift · Kotlin
 
 ## Contact
 
-[rajan.codes](https://rajan.codes) · [LinkedIn](https://www.linkedin.com/in/rajan-thakkar-dev/) · [rajanthakkar100@gmail.com](mailto:rajanthakkar100@gmail.com)
+[rajan-thakkar-gules.vercel.app](https://rajan-thakkar-gules.vercel.app) · [LinkedIn](https://www.linkedin.com/in/rajan-thakkar-dev/) · [rajanthakkar100@gmail.com](mailto:rajanthakkar100@gmail.com)
