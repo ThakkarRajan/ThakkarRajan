@@ -14,7 +14,7 @@ I build web and mobile products that stay usable after launch.
 
 **[Selectext](https://github.com/ThakkarRajan/Selectext)** — macOS menu bar app. On-device OCR from any region on screen, straight to the clipboard.
 
-**[Harmony Salon](https://harmonysalon.biz/)** — Bridal salon site: services, pricing, and booking. [Code](https://github.com/ThakkarRajan/harmony-salon)
+**[Harmony Salon](https://harmony-salon.vercel.app/)** — Bridal salon site: services, pricing, and booking. [Code](https://github.com/ThakkarRajan/harmony-salon)
 
 ## Stack
 
